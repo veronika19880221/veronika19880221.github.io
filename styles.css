@@ -12,6 +12,11 @@ body {
   margin: 0;
 }
 
+.big-container {
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
 h1 {
   color: #ffffff;
   font-size: 52px;
