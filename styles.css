@@ -161,3 +161,7 @@ h3 {
        justify-content: center;
        align-items: center;
      }
+
+     .size3 {
+       height: auto;
+       }
